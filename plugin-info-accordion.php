@@ -3,7 +3,7 @@
 Plugin Name:  Plugin Info Accordion
 Description:  Adds an accordion to the FAQ and change log info from the Plugin Info plugin.
 Plugin URI:   http://toolstack.com/plugin-info-accordion
-Version:      0.1
+Version:      1.0
 Author:       Greg Ross
 Author URI:   http://toolstack.com
 License:      GPL v2
